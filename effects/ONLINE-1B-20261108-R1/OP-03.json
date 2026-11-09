@@ -1,0 +1,6 @@
+{
+  "experiment_id": "ONLINE-1B-20261108-R1",
+  "logical_operation_id": "OP-03",
+  "effect_id": "ONLINE-1B-R1-E03",
+  "payload": "EXCLUSIVE_EFFECT"
+}
